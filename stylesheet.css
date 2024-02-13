@@ -4,3 +4,21 @@ div {
     background-color:#FF0000;
     border-radius:5px;
 }
+
+/* Form Validation */
+
+.form-error{
+    color:#FF0000;
+}
+
+.form-success {
+    color:darkseagreen;
+}
+
+.input-error {
+    box-shadow: 0 0 5px red;
+}
+
+.input-success {
+    box-shadow: 0 0 5px green;
+}
